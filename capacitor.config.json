@@ -1,0 +1,5 @@
+{
+  "appId": "com.qrScanner.app",
+  "appName": "qr-scanner",
+  "webDir": "dist"
+}
